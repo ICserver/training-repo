@@ -1,1 +1,3 @@
 File created to test commiting rights on master branch.
+
+file updated to test user name change in git-hub.
